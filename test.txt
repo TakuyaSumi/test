@@ -2,9 +2,14 @@ hogehoge
 hogehoge
 foofoo
 barbar
+<<<<<<< HEAD
 c
 d
 e
 f
 g
 
+=======
+aaa
+bb
+>>>>>>> 2260239b16b594586a5d0372a7c260afd323cce8
